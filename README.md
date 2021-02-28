@@ -16,7 +16,7 @@ If you would like to use the BeEF hook, please edit the index.html with your own
 ---------
 ## After transfering/downloading the files to the network run the following command in the download folder:
 
-***cp bot.py /tmp | cp index.html /tmp | cp rockyou.txt /tmp | cp usernames.txt /tmp | cp worm.py /tmp***
+***cp bot.py /tmp; cp index.html /tmp; cp rockyou.txt /tmp; cp usernames.txt /tmp; cp worm.py /tmp***
  
  -----
 
